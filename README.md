@@ -13,3 +13,4 @@
 - [02 - 古装街道赵明成 POV（含拆分两段版）](videos/02-guzhuang-zhaomingcheng.md)
 - [03 - 微距肖像（含瞳孔修正）](videos/03-macro-portrait.md)
 - [04 - MiniDV 咖啡馆清晨（五镜头）](videos/04-minidv-cafe-morning.md)
+- [05 - 抖音风怼脸自拍（美颜滤镜前置视频）](videos/05-douyin-selfie-closeup.md)
