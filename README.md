@@ -14,3 +14,4 @@
 - [03 - 微距肖像（含瞳孔修正）](videos/03-macro-portrait.md)
 - [04 - MiniDV 咖啡馆清晨（五镜头）](videos/04-minidv-cafe-morning.md)
 - [05 - 抖音风怼脸自拍（美颜滤镜前置视频）](videos/05-douyin-selfie-closeup.md)
+- [06 - 自家猫买菜（10 秒试播）](videos/06-cat-grocery-shopping.md)
